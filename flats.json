@@ -1,0 +1,56 @@
+[
+  {
+    "id": 145,
+    "name": "Enjoy the experience of art and history in their maximum expression with one night at Palacio de Bellas Artes",
+    "imageUrl": "",
+    "price": 600,
+    "priceCurrency": "MXN",
+    "lat": 19.4356511,
+    "lng": -99.14122612
+  },
+  {
+    "id": 148,
+    "name": "A night full of ancient history and endless discovery at Museo Nacional de Antropología",
+    "imageUrl": "",
+    "price": 500,
+    "priceCurrency": "MXN",
+    "lat": 19.42610885,
+    "lng": -99.18662893
+  },
+  {
+    "id": 201,
+    "name": "Spend a magic time as a Queen or King at Castillo de Chapultepec",
+    "imageUrl": "",
+    "price": 1000,
+    "priceCurrency": "MXN",
+    "lat": 19.418998324,
+    "lng": -99.175665964
+  },
+  {
+    "id": 205,
+    "name": "Spend a magic time at Museo Franz Mayer with Latin America’s largest collection of decorative arts",
+    "imageUrl": "",
+    "price": 700,
+    "priceCurrency": "MXN",
+    "lat": 19.4355999243,
+    "lng": -99.1392527763
+  },
+  {
+    "id": 210,
+    "name": "Return to your childhood at Papalote Museo del Niño",
+    "imageUrl": "",
+    "price": 500,
+    "priceCurrency": "MXN",
+    "lat": 19.41139411926270,
+    "lng": -99.19445037841797
+  },
+  {
+    "id": 211,
+    "name": "Gain knowledge through the interactivity with science and technology",
+    "imageUrl": " ",
+    "price": 400,
+    "priceCurrency": "MXN",
+    "lat": 19.31138889,
+    "lng": -99.18055556
+  }
+]
